@@ -14,6 +14,9 @@ Open `index.html` in a browser, or serve the folder with any static host. The fo
 
 ## Before it goes live
 
+- `social.jpg` is the preview image shown when the link is shared. The `og:image` tag in `index.html` points at the staging address and needs the final domain.
+- Camera date stamps were retouched out of 23 interior photographs in `img/`; the earlier versions are in the git history.
+
 - The footer links to an "Open items" page listing what is still needed. It should come out at launch.
 - `index.html` has a `noindex` tag so search engines skip the staging build. Remove it at launch.
 - The contact form is not connected to anything yet.
