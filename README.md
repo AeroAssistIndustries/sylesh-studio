@@ -6,7 +6,7 @@ Staging build of the redesigned website for Shailesh (Sylesh) Joshi: paintings a
 
 - `index.html` is the whole site: one page, with its styles and script inline. Sections are switched by the link hash, for example `#homes` or `#h-la`.
 - `img/` holds every artwork and project photograph as WebP, a full-size file and a `-t` thumbnail where the original is large enough.
-- `logo/` holds the arch monogram logo as SVG, in dark-background and light-background versions.
+- `logo/` holds the SJ monogram logo as SVG: the mark, a round seal, and horizontal and stacked lockups. Files ending in `-light` are for light backgrounds; the others are for dark backgrounds. `favicon.svg` is the browser-tab icon.
 
 ## Viewing it
 
